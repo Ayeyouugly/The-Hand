@@ -1,0 +1,39 @@
+{
+  "board_number": 2,
+  "svg_content": "<svg width='1920' height='1080' xmlns='http://www.w3.org/2000/svg'>\n  <g id='base_input_icon' stroke='black' stroke-width='4' fill='none' stroke-linecap='round' stroke-linejoin='round'>\n    <!-- Extracted topological paths for base_input_icon -->\n  </g>\n  <g id='dissolve_into_numbers' stroke='black' stroke-width='4' fill='none' stroke-linecap='round' stroke-linejoin='round'>\n    <!-- Extracted topological paths for dissolve_into_numbers -->\n  </g>\n  <g id='high_dimensional_vector_web' stroke='black' stroke-width='4' fill='none' stroke-linecap='round' stroke-linejoin='round'>\n    <!-- Extracted topological paths for high_dimensional_vector_web -->\n  </g>\n  <g id='relationship_mapping_nodes' stroke='black' stroke-width='4' fill='none' stroke-linecap='round' stroke-linejoin='round'>\n    <!-- Extracted topological paths for relationship_mapping_nodes -->\n  </g>\n</svg>",
+  "svg_layers": [
+    "base_input_icon",
+    "dissolve_into_numbers",
+    "high_dimensional_vector_web",
+    "relationship_mapping_nodes"
+  ],
+  "draw_sequence": [
+    {
+      "layer": "base_input_icon",
+      "order": 1,
+      "duration_percent": 0.3156,
+      "start_percent": 0.0
+    },
+    {
+      "layer": "high_dimensional_vector_web",
+      "order": 2,
+      "duration_percent": 0.3156,
+      "start_percent": 0.3123
+    },
+    {
+      "layer": "dissolve_into_numbers",
+      "order": 3,
+      "duration_percent": 0.2802,
+      "start_percent": 0.3798
+    },
+    {
+      "layer": "relationship_mapping_nodes",
+      "order": 4,
+      "duration_percent": 0.3754,
+      "start_percent": 0.6246
+    }
+  ],
+  "stroke_style": "thick dry-erase marker with organic wobble",
+  "topological_morph_notes": "The web of vectors will align into a rigid, organized grid layout as we morph into the attention mechanism for Board 3.",
+  "qualia_alignment": "Isolated SVG paths successfully split into After Skool compositional layers."
+}

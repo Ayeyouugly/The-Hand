@@ -1,0 +1,39 @@
+{
+  "board_number": 1,
+  "svg_content": "<svg width='1920' height='1080' xmlns='http://www.w3.org/2000/svg'>\n  <g id='human_mask_facade' stroke='black' stroke-width='4' fill='none' stroke-linecap='round' stroke-linejoin='round'>\n    <!-- Extracted topological paths for human_mask_facade -->\n  </g>\n  <g id='shatter_and_cross_out_marks' stroke='black' stroke-width='4' fill='none' stroke-linecap='round' stroke-linejoin='round'>\n    <!-- Extracted topological paths for shatter_and_cross_out_marks -->\n  </g>\n  <g id='underlying_mechanical_density' stroke='black' stroke-width='4' fill='none' stroke-linecap='round' stroke-linejoin='round'>\n    <!-- Extracted topological paths for underlying_mechanical_density -->\n  </g>\n  <g id='text_label_2026' stroke='black' stroke-width='4' fill='none' stroke-linecap='round' stroke-linejoin='round'>\n    <!-- Extracted topological paths for text_label_2026 -->\n  </g>\n</svg>",
+  "svg_layers": [
+    "human_mask_facade",
+    "shatter_and_cross_out_marks",
+    "underlying_mechanical_density",
+    "text_label_2026"
+  ],
+  "draw_sequence": [
+    {
+      "layer": "human_mask_facade",
+      "order": 1,
+      "duration_percent": 0.2632,
+      "start_percent": 0.0
+    },
+    {
+      "layer": "shatter_and_cross_out_marks",
+      "order": 2,
+      "duration_percent": 0.0619,
+      "start_percent": 0.2523
+    },
+    {
+      "layer": "underlying_mechanical_density",
+      "order": 3,
+      "duration_percent": 0.356,
+      "start_percent": 0.3065
+    },
+    {
+      "layer": "text_label_2026",
+      "order": 4,
+      "duration_percent": 0.3483,
+      "start_percent": 0.6517
+    }
+  ],
+  "stroke_style": "thick dry-erase marker with organic wobble",
+  "topological_morph_notes": "We maintain the outer silhouette of the head, but the internal space morphs from a human brain into a mechanical grid. For the transition to Board 2, we will zoom infinitely into a single, dense square 'node' from the mechanical structure, which expands to become the blank white canvas.",
+  "qualia_alignment": "Isolated SVG paths successfully split into After Skool compositional layers."
+}

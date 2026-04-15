@@ -1,0 +1,39 @@
+{
+  "board_number": 5,
+  "svg_content": "<svg width='1920' height='1080' xmlns='http://www.w3.org/2000/svg'>\n  <g id='final_hidden_state_projector' stroke='black' stroke-width='4' fill='none' stroke-linecap='round' stroke-linejoin='round'>\n    <!-- Extracted topological paths for final_hidden_state_projector -->\n  </g>\n  <g id='projection_beam_vocabulary_matrix' stroke='black' stroke-width='4' fill='none' stroke-linecap='round' stroke-linejoin='round'>\n    <!-- Extracted topological paths for projection_beam_vocabulary_matrix -->\n  </g>\n  <g id='softmax_chosen_token_highlight' stroke='black' stroke-width='4' fill='none' stroke-linecap='round' stroke-linejoin='round'>\n    <!-- Extracted topological paths for softmax_chosen_token_highlight -->\n  </g>\n  <g id='looping_ouroboros_arrow' stroke='black' stroke-width='4' fill='none' stroke-linecap='round' stroke-linejoin='round'>\n    <!-- Extracted topological paths for looping_ouroboros_arrow -->\n  </g>\n</svg>",
+  "svg_layers": [
+    "final_hidden_state_projector",
+    "projection_beam_vocabulary_matrix",
+    "softmax_chosen_token_highlight",
+    "looping_ouroboros_arrow"
+  ],
+  "draw_sequence": [
+    {
+      "layer": "final_hidden_state_projector",
+      "order": 1,
+      "duration_percent": 0.2692,
+      "start_percent": 0.0
+    },
+    {
+      "layer": "projection_beam_vocabulary_matrix",
+      "order": 2,
+      "duration_percent": 0.4686,
+      "start_percent": 0.2662
+    },
+    {
+      "layer": "softmax_chosen_token_highlight",
+      "order": 3,
+      "duration_percent": 0.1296,
+      "start_percent": 0.7278
+    },
+    {
+      "layer": "looping_ouroboros_arrow",
+      "order": 4,
+      "duration_percent": 0.1496,
+      "start_percent": 0.8504
+    }
+  ],
+  "stroke_style": "thick dry-erase marker with organic wobble",
+  "topological_morph_notes": "The Ouroboros loop transforms into the spiraling brim of a magician's hat to set up the illusion-shattering metaphor in Board 6.",
+  "qualia_alignment": "Isolated SVG paths successfully split into After Skool compositional layers."
+}

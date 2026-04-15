@@ -1,0 +1,182 @@
+[
+  {
+    "chunk_index": 0,
+    "text": "Most people think AI reads your question like a human does.",
+    "start_time": 0.0,
+    "end_time": 3.36
+  },
+  {
+    "chunk_index": 1,
+    "text": "It does not.",
+    "start_time": 3.26,
+    "end_time": 4.06
+  },
+  {
+    "chunk_index": 2,
+    "text": "And once you see the actual mechanism, you cannot unsee it.",
+    "start_time": 3.96,
+    "end_time": 8.52
+  },
+  {
+    "chunk_index": 3,
+    "text": "Here is what is actually happening inside a large language model in 2026.",
+    "start_time": 8.42,
+    "end_time": 12.9
+  },
+  {
+    "chunk_index": 4,
+    "text": "Your input, whether it is text, code, or an image, gets converted into numbers.",
+    "start_time": 12.8,
+    "end_time": 18.64
+  },
+  {
+    "chunk_index": 5,
+    "text": "Every word or token gets mapped to a high-dimensional vector, sometimes 4,000 numbers deep.",
+    "start_time": 18.54,
+    "end_time": 24.38
+  },
+  {
+    "chunk_index": 6,
+    "text": "That vector encodes not just the word, but its meaning in relation to every other word in the model's training data.",
+    "start_time": 24.28,
+    "end_time": 31.16
+  },
+  {
+    "chunk_index": 7,
+    "text": "Then the attention mechanism kicks in.",
+    "start_time": 31.06,
+    "end_time": 33.14
+  },
+  {
+    "chunk_index": 8,
+    "text": "The model does not read left to right.",
+    "start_time": 33.04,
+    "end_time": 35.2
+  },
+  {
+    "chunk_index": 9,
+    "text": "It runs a mathematical operation called scaled dot-product attention across every token simultaneously.",
+    "start_time": 35.1,
+    "end_time": 40.62
+  },
+  {
+    "chunk_index": 10,
+    "text": "It is asking: which parts of this input are most relevant to each other?",
+    "start_time": 40.52,
+    "end_time": 44.76
+  },
+  {
+    "chunk_index": 11,
+    "text": "It builds a weighted relationship map, a grid of scores, and uses that map to decide what information to amplify and what to suppress.",
+    "start_time": 44.66,
+    "end_time": 52.5
+  },
+  {
+    "chunk_index": 12,
+    "text": "This happens not once but across dozens of layers, sometimes 96 layers deep in the largest models.",
+    "start_time": 52.4,
+    "end_time": 59.68
+  },
+  {
+    "chunk_index": 13,
+    "text": "Each layer is a different lens.",
+    "start_time": 59.58,
+    "end_time": 62.14
+  },
+  {
+    "chunk_index": 14,
+    "text": "Earlier layers detect syntax and grammar.",
+    "start_time": 62.04,
+    "end_time": 65.0
+  },
+  {
+    "chunk_index": 15,
+    "text": "Middle layers encode factual associations.",
+    "start_time": 64.9,
+    "end_time": 67.94
+  },
+  {
+    "chunk_index": 16,
+    "text": "The deepest layers handle abstract reasoning and context.",
+    "start_time": 67.84,
+    "end_time": 71.52
+  },
+  {
+    "chunk_index": 17,
+    "text": "After all 96 layers have processed the signal, you arrive at the final hidden state.",
+    "start_time": 71.42,
+    "end_time": 76.86
+  },
+  {
+    "chunk_index": 18,
+    "text": "That state is projected against a vocabulary matrix containing every possible next token, and a softmax function converts those raw scores into probabilities.",
+    "start_time": 76.76,
+    "end_time": 86.12
+  },
+  {
+    "chunk_index": 19,
+    "text": "The model picks the most likely next token.",
+    "start_time": 86.02,
+    "end_time": 88.58
+  },
+  {
+    "chunk_index": 20,
+    "text": "Then it runs the entire process again for the next word.",
+    "start_time": 88.48,
+    "end_time": 91.44
+  },
+  {
+    "chunk_index": 21,
+    "text": "This is not thinking.",
+    "start_time": 91.34,
+    "end_time": 92.46
+  },
+  {
+    "chunk_index": 22,
+    "text": "It is inference.",
+    "start_time": 92.36,
+    "end_time": 93.56
+  },
+  {
+    "chunk_index": 23,
+    "text": "Billions of learned weights, tuned to predict statistically likely continuations, given everything it has ever seen.",
+    "start_time": 93.46,
+    "end_time": 100.18
+  },
+  {
+    "chunk_index": 24,
+    "text": "The output feels intelligent because the training data was written by intelligent people.",
+    "start_time": 100.08,
+    "end_time": 104.24
+  },
+  {
+    "chunk_index": 25,
+    "text": "The model learned to compress and recombine their patterns.",
+    "start_time": 104.14,
+    "end_time": 107.02
+  },
+  {
+    "chunk_index": 26,
+    "text": "That is the machine.",
+    "start_time": 106.92,
+    "end_time": 108.2
+  },
+  {
+    "chunk_index": 27,
+    "text": "Not magic.",
+    "start_time": 108.1,
+    "end_time": 109.94
+  },
+  {
+    "chunk_index": 28,
+    "text": "A very large, very fast, very structured prediction engine.",
+    "start_time": 109.84,
+    "end_time": 113.52
+  },
+  {
+    "chunk_index": 29,
+    "text": "If this helped, drop a like and I'll keep going deeper.",
+    "start_time": 113.42,
+    "end_time": 116.7
+  }
+]

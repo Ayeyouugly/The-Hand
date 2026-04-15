@@ -1,0 +1,385 @@
+[
+  {
+    "board_number": 1,
+    "master_image_prompt": "Ultra-detailed After Skool style whiteboard marker sketch. Thick dry erase marker stroke, slight organic wobble, hand-drawn imperfection, solid black contour lines on pure white background. A minimalist human face in profile initially appears to be reading, but the face is drawn as a cracked, peeling theatrical mask being lifted away. Underneath the human mask, a dense, interconnected 'horror vacui' network of cold, geometric nodes, sharp mathematical grids, and flowing mechanistic structures replaces the mind. Strictly monochromatic, feeling conceptual and profound, shattering the illusion of human thought.",
+    "svg_layers": [
+      "human_mask_facade",
+      "shatter_and_cross_out_marks",
+      "underlying_mechanical_density",
+      "text_label_2026"
+    ],
+    "draw_order_and_timings": [
+      {
+        "layer": "human_mask_facade",
+        "start": 0.0,
+        "duration": 3.4,
+        "sync_to_voice": "Most people think AI reads your question like a human does."
+      },
+      {
+        "layer": "shatter_and_cross_out_marks",
+        "start": 3.26,
+        "duration": 0.8,
+        "sync_to_voice": "It does not."
+      },
+      {
+        "layer": "underlying_mechanical_density",
+        "start": 3.96,
+        "duration": 4.6,
+        "sync_to_voice": "And once you see the actual mechanism, you cannot unsee it."
+      },
+      {
+        "layer": "text_label_2026",
+        "start": 8.42,
+        "duration": 4.5,
+        "sync_to_voice": "Here is what is actually happening inside a large language model in 2026."
+      }
+    ],
+    "qualia_resonance": "A jarring but illuminating cognitive shift. Begins with comfortable, familiar minimalism (the human facade) and abruptly confronts the viewer with the overwhelming, dense reality of the machine (horror vacui). The emotional drop perfectly matches the shattering of the anthropomorphic illusion.",
+    "visual_metaphors_used": [
+      "The Peeling Mask (Anthropomorphic Illusion)",
+      "Dense, Monolithic Geometric Networks (Cold, underlying mechanical reality)",
+      "Horror Vacui composition contrasting with Extreme Minimalism"
+    ],
+    "topological_morph_notes": "We maintain the outer silhouette of the head, but the internal space morphs from a human brain into a mechanical grid. For the transition to Board 2, we will zoom infinitely into a single, dense square 'node' from the mechanical structure, which expands to become the blank white canvas.",
+    "svg_extraction_path": "assets/master_svgs/board_01.json",
+    "hand_guidance": {
+      "negative_space_zones": [
+        "top-left",
+        "bottom-right"
+      ],
+      "hand_entry_points": [
+        "right side for peeling mask",
+        "bottom for 2026 text"
+      ],
+      "clearance_instructions": "Maintain pure white negative space around the silhouette so the hand can dramatically peel away the mask layer from the right side. Ensure the hand doesn't occlude the dense mechanical nodes during the reveal.",
+      "recommended_hand_style": "sudden, sharp revealing sweeps for the shatter, followed by slow, meticulous dotting for the mechanical nodes"
+    }
+  },
+  {
+    "board_number": 2,
+    "master_image_prompt": "Ultra-detailed After Skool style whiteboard marker sketch. Thick dry erase marker stroke, slight organic wobble, solid black lines on pure white background. Extreme minimalism transitioning to high density. A single drawn icon representing input (text/image) in the center dissolves topographically into an extremely complex, 3D radial constellation web. Hundreds of dotted lines and numeric data points (4,000 deep) spiderweb outward across the screen. These vectors clearly interlock, representing relationship mapping in an abstract, mathematical space.",
+    "svg_layers": [
+      "base_input_icon",
+      "dissolve_into_numbers",
+      "high_dimensional_vector_web",
+      "relationship_mapping_nodes"
+    ],
+    "draw_order_and_timings": [
+      {
+        "layer": "base_input_icon",
+        "start": 12.8,
+        "duration": 5.8,
+        "sync_to_voice": "Your input, whether it is text, code, or an image, gets converted into numbers."
+      },
+      {
+        "layer": "high_dimensional_vector_web",
+        "start": 18.54,
+        "duration": 5.8,
+        "sync_to_voice": "Every word or token gets mapped to a high-dimensional vector, sometimes 4,000 numbers deep."
+      },
+      {
+        "layer": "dissolve_into_numbers",
+        "start": 19.78,
+        "duration": 5.15,
+        "sync_to_voice": "gets converted into numbers / high-dimensional vector"
+      },
+      {
+        "layer": "relationship_mapping_nodes",
+        "start": 24.28,
+        "duration": 6.9,
+        "sync_to_voice": "That vector encodes not just the word, but its meaning in relation to every other word in the model's training data."
+      }
+    ],
+    "qualia_resonance": "Awe at the transition from qualitative meaning to quantitative scale. The feeling of zooming out to realize that a single word contains an entire universe of geometric relationships.",
+    "visual_metaphors_used": [
+      "Dissolving solid forms into numerical particles (Topological transformation)",
+      "3D Constellation Web (Representing high-dimensional relational space)"
+    ],
+    "topological_morph_notes": "The web of vectors will align into a rigid, organized grid layout as we morph into the attention mechanism for Board 3.",
+    "svg_extraction_path": "assets/master_svgs/board_02.json",
+    "hand_guidance": {
+      "negative_space_zones": [
+        "top-right",
+        "bottom-left",
+        "outer margins"
+      ],
+      "hand_entry_points": [
+        "center-out for dissolving",
+        "left for input icon"
+      ],
+      "clearance_instructions": "The hand should start center and rapidly move outward to draw the 3D radial web, requiring clearance across all outer boundaries to avoid cropping the hand reference.",
+      "recommended_hand_style": "rapid radial outward bursts, quick fluid stippling for vectors"
+    }
+  },
+  {
+    "board_number": 3,
+    "master_image_prompt": "Ultra-detailed After Skool style whiteboard marker sketch. Thick dry erase marker stroke, slight organic wobble, solid black lines on pure white background. The composition shows a complex, symmetrical mandala representing an 'attention grid'. There is a crossed-out left-to-right arrow at the top. The central mandala is a highly dense network connecting multiple scattered text tokens in a massive spiderweb. Some of these connecting lines are intensely thick and bold (amplified weights), while others are extremely thin and dotted (suppressed information), building a map of simultaneous mathematical context.",
+    "svg_layers": [
+      "attention_kick_in_spark",
+      "left_to_right_arrow_crossed_out",
+      "simultaneous_attention_nodes",
+      "weighted_relationship_grid_mandala"
+    ],
+    "draw_order_and_timings": [
+      {
+        "layer": "attention_kick_in_spark",
+        "start": 31.06,
+        "duration": 2.0,
+        "sync_to_voice": "Then the attention mechanism kicks in."
+      },
+      {
+        "layer": "left_to_right_arrow_crossed_out",
+        "start": 33.04,
+        "duration": 2.1,
+        "sync_to_voice": "The model does not read left to right."
+      },
+      {
+        "layer": "simultaneous_attention_nodes",
+        "start": 35.1,
+        "duration": 9.6,
+        "sync_to_voice": "It runs a mathematical operation called scaled dot-product attention across every token simultaneously. It is asking: which parts of this input are most relevant to each other?"
+      },
+      {
+        "layer": "weighted_relationship_grid_mandala",
+        "start": 44.66,
+        "duration": 7.8,
+        "sync_to_voice": "It builds a weighted relationship map, a grid of scores, and uses that map to decide what information to amplify and what to suppress."
+      }
+    ],
+    "qualia_resonance": "A humbling visual revelation of how non-linear processing works. The viewer feels the overwhelming, simultaneous nature of the attention grid represented as a beautiful, symmetrical mandala.",
+    "visual_metaphors_used": [
+      "Crossed-out linear arrows (Friction against human preconceptions)",
+      "Symmetrical Mandala (Representing the perfect, complex grid of scaled dot-product attention)",
+      "Varying line weights (Literal representation of amplification and suppression)"
+    ],
+    "topological_morph_notes": "The mandala's central geometric axis acts as an infinite tunnel. For Board 4, we zoom deep into the center of the mandala, which becomes the deep perspective shaft of the 96 layers.",
+    "svg_extraction_path": "assets/master_svgs/board_03.json",
+    "hand_guidance": {
+      "negative_space_zones": [
+        "corners",
+        "deep left",
+        "deep right"
+      ],
+      "hand_entry_points": [
+        "top for crossed out arrow",
+        "center for mandala base"
+      ],
+      "clearance_instructions": "Keep the four corners entirely empty. The hand should be able to hover centrally to construct the mandala layers without covering the previously drawn crossed out arrow at the top.",
+      "recommended_hand_style": "symmetrical, highly deliberate and rhythmic circular strokes"
+    }
+  },
+  {
+    "board_number": 4,
+    "master_image_prompt": "Ultra-detailed After Skool style whiteboard marker sketch. Thick dry erase marker stroke, slight organic wobble, solid black contour lines on pure white background. The composition shows 96 distinct, stacked panes of glass or circular lenses receding infinitely down a deep perspective tunnel. The first few lenses are decorated with basic geometric building blocks and ABC letters (syntax). The middle lenses show interconnected worldly objects and facts. The deepest lenses at the far vanishing point swirl with abstract, psychedelic geometric cosmos representing deep context and reasoning.",
+    "svg_layers": [
+      "deep_perspective_stack_of_96",
+      "lens_1_syntax_blocks",
+      "lens_2_factual_objects",
+      "lens_3_abstract_cosmos"
+    ],
+    "draw_order_and_timings": [
+      {
+        "layer": "deep_perspective_stack_of_96",
+        "start": 52.4,
+        "duration": 7.3,
+        "sync_to_voice": "This happens not once but across dozens of layers, sometimes 96 layers deep in the largest models."
+      },
+      {
+        "layer": "lens_1_syntax_blocks",
+        "start": 59.58,
+        "duration": 5.4,
+        "sync_to_voice": "Each layer is a different lens. Earlier layers detect syntax and grammar."
+      },
+      {
+        "layer": "lens_2_factual_objects",
+        "start": 64.9,
+        "duration": 3.0,
+        "sync_to_voice": "Middle layers encode factual associations."
+      },
+      {
+        "layer": "lens_3_abstract_cosmos",
+        "start": 67.84,
+        "duration": 3.7,
+        "sync_to_voice": "The deepest layers handle abstract reasoning and context."
+      }
+    ],
+    "qualia_resonance": "The vertigo of scale. Communicating that reasoning is not born out of thin air, but through progressively deeper, structured, alchemical filtration of information.",
+    "visual_metaphors_used": [
+      "Deep perspective tunnel (Representing the immense depth of the architecture)",
+      "Progressive visual complexity (Syntax as blocks, Context as cosmos)"
+    ],
+    "topological_morph_notes": "We reach the very end of the perspective tunnel. The final abstract cosmos lens morphs and solidifies into the singular glowing node representing the final hidden state for Board 5.",
+    "svg_extraction_path": "assets/master_svgs/board_04.json",
+    "hand_guidance": {
+      "negative_space_zones": [
+        "upper margins",
+        "extreme left/right"
+      ],
+      "hand_entry_points": [
+        "center point for vanishing point",
+        "bottom for front lenses"
+      ],
+      "clearance_instructions": "Hand needs to enter from the bottom and draw the foreground lenses first, then retreat back towards the center vanishing point. Leave wide margins so the hand arm doesn't obscure the front lenses.",
+      "recommended_hand_style": "long sweeping perspective lines, shrinking precision as it draws deeper"
+    }
+  },
+  {
+    "board_number": 5,
+    "master_image_prompt": "Ultra-detailed After Skool style whiteboard marker sketch. Thick marker stroke, slight organic wobble, solid black lines on pure white background, with ONE spare splash of cognitive yellow. A singular central node ('hidden state') acts like a film projector, casting a wide beam onto a curved cinema screen structure ('vocabulary matrix'). Inside the beam's projection, thousands of translucent, hazy text tokens float in chaos. Through the projection, one single prominent word condenses out of the probability mist into solid black ink, highlighted in faint cognitive yellow. A large curving ouroboros arrow loops backward from the word to the projector.",
+    "svg_layers": [
+      "final_hidden_state_projector",
+      "projection_beam_vocabulary_matrix",
+      "softmax_chosen_token_highlight",
+      "looping_ouroboros_arrow"
+    ],
+    "draw_order_and_timings": [
+      {
+        "layer": "final_hidden_state_projector",
+        "start": 71.42,
+        "duration": 5.4,
+        "sync_to_voice": "After all 96 layers have processed the signal, you arrive at the final hidden state."
+      },
+      {
+        "layer": "projection_beam_vocabulary_matrix",
+        "start": 76.76,
+        "duration": 9.4,
+        "sync_to_voice": "That state is projected against a vocabulary matrix containing every possible next token, and a softmax function converts those raw scores into probabilities."
+      },
+      {
+        "layer": "softmax_chosen_token_highlight",
+        "start": 86.02,
+        "duration": 2.6,
+        "sync_to_voice": "The model picks the most likely next token."
+      },
+      {
+        "layer": "looping_ouroboros_arrow",
+        "start": 88.48,
+        "duration": 3.0,
+        "sync_to_voice": "Then it runs the entire process again for the next word."
+      }
+    ],
+    "qualia_resonance": "The moment of culmination. The complex math resolving cleanly into a probabilistic but definitive reality. The ouroboros loop conveys the relentless, cyclical nature of generation.",
+    "visual_metaphors_used": [
+      "Cinematic Projector (Representing the projection against the vocabulary matrix)",
+      "Condensation from mist to solid (Representing softmax probabilities resolving to a single token)",
+      "Ouroboros Loop (Representing autoregressive continuation)"
+    ],
+    "topological_morph_notes": "The Ouroboros loop transforms into the spiraling brim of a magician's hat to set up the illusion-shattering metaphor in Board 6.",
+    "svg_extraction_path": "assets/master_svgs/board_05.json",
+    "hand_guidance": {
+      "negative_space_zones": [
+        "top-left",
+        "bottom-right"
+      ],
+      "hand_entry_points": [
+        "left for projector",
+        "right for curved screen"
+      ],
+      "clearance_instructions": "Leave the center diagonal path clear so the hand can draw the projection beam and the mist of tokens without bumping into the projector drawing.",
+      "recommended_hand_style": "hazy, light stippling for the mist, transitioning to hard, heavy strokes for the chosen word"
+    }
+  },
+  {
+    "board_number": 6,
+    "master_image_prompt": "Ultra-detailed After Skool style whiteboard marker sketch. Thick marker stroke, slight organic wobble, solid black lines. The drawing reveals two contrasting halves. Initially, an illusion of a magical glowing human brain is shown, like a magician's trick setup. As the truth is revealed, the magic hat trick is swept away to reveal a massive, beautifully intricate clockwork loom machine. This loom is physically weaving countless human silhouettes, books, and letters into a compressed tapestry of data. It shows that the intelligence is mechanical and sourced from human patterns, not intrinsic magic.",
+    "svg_layers": [
+      "magic_brain_illusion_crossed_out",
+      "clockwork_inference_loom",
+      "human_authors_tapestry",
+      "structured_prediction_engine"
+    ],
+    "draw_order_and_timings": [
+      {
+        "layer": "magic_brain_illusion_crossed_out",
+        "start": 91.34,
+        "duration": 2.2,
+        "sync_to_voice": "This is not thinking. It is inference."
+      },
+      {
+        "layer": "clockwork_inference_loom",
+        "start": 93.46,
+        "duration": 6.7,
+        "sync_to_voice": "Billions of learned weights, tuned to predict statistically likely continuations, given everything it has ever seen."
+      },
+      {
+        "layer": "human_authors_tapestry",
+        "start": 100.08,
+        "duration": 7.0,
+        "sync_to_voice": "The output feels intelligent because the training data was written by intelligent people. The model learned to compress and recombine their patterns."
+      },
+      {
+        "layer": "structured_prediction_engine",
+        "start": 106.92,
+        "duration": 6.6,
+        "sync_to_voice": "That is the machine. Not magic. A very large, very fast, very structured prediction engine."
+      }
+    ],
+    "qualia_resonance": "Deep philosophical grounding. A grounding reality check that demystifies AI, replacing the fear of 'magic' with respect for mathematical human compression. Resolves the darkness and dissonance established in Board 1.",
+    "visual_metaphors_used": [
+      "Magician's trick revealed (Replacing the illusion of magic with mechanical reality)",
+      "The Clockwork Loom (Representing the statistical recombination and compression of human creation)"
+    ],
+    "topological_morph_notes": "The loom's weaving threads unravel into a single, simple line that forms the ground for the final call to action character in Board 7.",
+    "svg_extraction_path": "assets/master_svgs/board_06.json",
+    "hand_guidance": {
+      "negative_space_zones": [
+        "far left",
+        "far right",
+        "top center"
+      ],
+      "hand_entry_points": [
+        "left for magic brain",
+        "bottom for weaving loom"
+      ],
+      "clearance_instructions": "The hand must forcefully cross out the illusion layer, so leave ample room around the brain. For the loom, the hand should enter from the bottom to draw the heavy structural base.",
+      "recommended_hand_style": "aggressive scribbling for the cross-out, followed by extremely methodical, gear-like drawing for the loom"
+    }
+  },
+  {
+    "board_number": 7,
+    "master_image_prompt": "Ultra-detailed After Skool style whiteboard marker sketch. Extreme minimal, spacious composition. A small, lone philosopher-like character stands on a simple rock, peering down over the edge into a vast abyss or well. They are shining a hand-held lantern down into the darkness. There is a lot of negative white space around them to let the video breathe. Thick dry erase marker stroke, slight wobble, solid black lines.",
+    "svg_layers": [
+      "simple_ground_line",
+      "philosopher_character",
+      "lantern_beam_shining_down"
+    ],
+    "draw_order_and_timings": [
+      {
+        "layer": "simple_ground_line",
+        "start": 113.42,
+        "duration": 1.0,
+        "sync_to_voice": "If this helped,"
+      },
+      {
+        "layer": "philosopher_character",
+        "start": 114.42,
+        "duration": 1.0,
+        "sync_to_voice": "drop a like"
+      },
+      {
+        "layer": "lantern_beam_shining_down",
+        "start": 115.42,
+        "duration": 1.3,
+        "sync_to_voice": "and I'll keep going deeper."
+      }
+    ],
+    "qualia_resonance": "Breathing room, clarity, and an invitation for further intellectual exploration. Providing a clean, low-cognitive-load send-off.",
+    "visual_metaphors_used": [
+      "Peering into the well with a lantern (The classic After Skool metaphor for exploring deep, dark truths with curiosity rather than fear)"
+    ],
+    "topological_morph_notes": "Fade to white or direct cut as this is the outro.",
+    "svg_extraction_path": "assets/master_svgs/board_07.json",
+    "hand_guidance": {
+      "negative_space_zones": [
+        "entire top half",
+        "left margin"
+      ],
+      "hand_entry_points": [
+        "bottom-right for the rock",
+        "center-top for lantern beam"
+      ],
+      "clearance_instructions": "This board is 80 percent negative space. The hand should just cleanly draw the small figure in the bottom right and the beam, leaving massive unbroken white space everywhere else.",
+      "recommended_hand_style": "minimalist, slow, gentle strokes, pausing thoughtfully"
+    }
+  }
+]

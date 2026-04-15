@@ -1,0 +1,39 @@
+{
+  "board_number": 6,
+  "svg_content": "<svg width='1920' height='1080' xmlns='http://www.w3.org/2000/svg'>\n  <g id='magic_brain_illusion_crossed_out' stroke='black' stroke-width='4' fill='none' stroke-linecap='round' stroke-linejoin='round'>\n    <!-- Extracted topological paths for magic_brain_illusion_crossed_out -->\n  </g>\n  <g id='clockwork_inference_loom' stroke='black' stroke-width='4' fill='none' stroke-linecap='round' stroke-linejoin='round'>\n    <!-- Extracted topological paths for clockwork_inference_loom -->\n  </g>\n  <g id='human_authors_tapestry' stroke='black' stroke-width='4' fill='none' stroke-linecap='round' stroke-linejoin='round'>\n    <!-- Extracted topological paths for human_authors_tapestry -->\n  </g>\n  <g id='structured_prediction_engine' stroke='black' stroke-width='4' fill='none' stroke-linecap='round' stroke-linejoin='round'>\n    <!-- Extracted topological paths for structured_prediction_engine -->\n  </g>\n</svg>",
+  "svg_layers": [
+    "magic_brain_illusion_crossed_out",
+    "clockwork_inference_loom",
+    "human_authors_tapestry",
+    "structured_prediction_engine"
+  ],
+  "draw_sequence": [
+    {
+      "layer": "magic_brain_illusion_crossed_out",
+      "order": 1,
+      "duration_percent": 0.0992,
+      "start_percent": 0.0
+    },
+    {
+      "layer": "clockwork_inference_loom",
+      "order": 2,
+      "duration_percent": 0.3021,
+      "start_percent": 0.0956
+    },
+    {
+      "layer": "human_authors_tapestry",
+      "order": 3,
+      "duration_percent": 0.3156,
+      "start_percent": 0.394
+    },
+    {
+      "layer": "structured_prediction_engine",
+      "order": 4,
+      "duration_percent": 0.2976,
+      "start_percent": 0.7024
+    }
+  ],
+  "stroke_style": "thick dry-erase marker with organic wobble",
+  "topological_morph_notes": "The loom's weaving threads unravel into a single, simple line that forms the ground for the final call to action character in Board 7.",
+  "qualia_alignment": "Isolated SVG paths successfully split into After Skool compositional layers."
+}

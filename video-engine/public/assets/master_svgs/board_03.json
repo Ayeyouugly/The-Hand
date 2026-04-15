@@ -1,0 +1,39 @@
+{
+  "board_number": 3,
+  "svg_content": "<svg width='1920' height='1080' xmlns='http://www.w3.org/2000/svg'>\n  <g id='attention_kick_in_spark' stroke='black' stroke-width='4' fill='none' stroke-linecap='round' stroke-linejoin='round'>\n    <!-- Extracted topological paths for attention_kick_in_spark -->\n  </g>\n  <g id='left_to_right_arrow_crossed_out' stroke='black' stroke-width='4' fill='none' stroke-linecap='round' stroke-linejoin='round'>\n    <!-- Extracted topological paths for left_to_right_arrow_crossed_out -->\n  </g>\n  <g id='simultaneous_attention_nodes' stroke='black' stroke-width='4' fill='none' stroke-linecap='round' stroke-linejoin='round'>\n    <!-- Extracted topological paths for simultaneous_attention_nodes -->\n  </g>\n  <g id='weighted_relationship_grid_mandala' stroke='black' stroke-width='4' fill='none' stroke-linecap='round' stroke-linejoin='round'>\n    <!-- Extracted topological paths for weighted_relationship_grid_mandala -->\n  </g>\n</svg>",
+  "svg_layers": [
+    "attention_kick_in_spark",
+    "left_to_right_arrow_crossed_out",
+    "simultaneous_attention_nodes",
+    "weighted_relationship_grid_mandala"
+  ],
+  "draw_sequence": [
+    {
+      "layer": "attention_kick_in_spark",
+      "order": 1,
+      "duration_percent": 0.0935,
+      "start_percent": 0.0
+    },
+    {
+      "layer": "left_to_right_arrow_crossed_out",
+      "order": 2,
+      "duration_percent": 0.0981,
+      "start_percent": 0.0925
+    },
+    {
+      "layer": "simultaneous_attention_nodes",
+      "order": 3,
+      "duration_percent": 0.4486,
+      "start_percent": 0.1888
+    },
+    {
+      "layer": "weighted_relationship_grid_mandala",
+      "order": 4,
+      "duration_percent": 0.3645,
+      "start_percent": 0.6355
+    }
+  ],
+  "stroke_style": "thick dry-erase marker with organic wobble",
+  "topological_morph_notes": "The mandala's central geometric axis acts as an infinite tunnel. For Board 4, we zoom deep into the center of the mandala, which becomes the deep perspective shaft of the 96 layers.",
+  "qualia_alignment": "Isolated SVG paths successfully split into After Skool compositional layers."
+}

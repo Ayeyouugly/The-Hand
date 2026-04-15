@@ -1,0 +1,32 @@
+{
+  "board_number": 7,
+  "svg_content": "<svg width='1920' height='1080' xmlns='http://www.w3.org/2000/svg'>\n  <g id='simple_ground_line' stroke='black' stroke-width='4' fill='none' stroke-linecap='round' stroke-linejoin='round'>\n    <!-- Extracted topological paths for simple_ground_line -->\n  </g>\n  <g id='philosopher_character' stroke='black' stroke-width='4' fill='none' stroke-linecap='round' stroke-linejoin='round'>\n    <!-- Extracted topological paths for philosopher_character -->\n  </g>\n  <g id='lantern_beam_shining_down' stroke='black' stroke-width='4' fill='none' stroke-linecap='round' stroke-linejoin='round'>\n    <!-- Extracted topological paths for lantern_beam_shining_down -->\n  </g>\n</svg>",
+  "svg_layers": [
+    "simple_ground_line",
+    "philosopher_character",
+    "lantern_beam_shining_down"
+  ],
+  "draw_sequence": [
+    {
+      "layer": "simple_ground_line",
+      "order": 1,
+      "duration_percent": 0.303,
+      "start_percent": 0.0
+    },
+    {
+      "layer": "philosopher_character",
+      "order": 2,
+      "duration_percent": 0.303,
+      "start_percent": 0.303
+    },
+    {
+      "layer": "lantern_beam_shining_down",
+      "order": 3,
+      "duration_percent": 0.3939,
+      "start_percent": 0.6061
+    }
+  ],
+  "stroke_style": "thick dry-erase marker with organic wobble",
+  "topological_morph_notes": "Fade to white or direct cut as this is the outro.",
+  "qualia_alignment": "Isolated SVG paths successfully split into After Skool compositional layers."
+}

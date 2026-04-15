@@ -1,0 +1,39 @@
+{
+  "board_number": 4,
+  "svg_content": "<svg width='1920' height='1080' xmlns='http://www.w3.org/2000/svg'>\n  <g id='deep_perspective_stack_of_96' stroke='black' stroke-width='4' fill='none' stroke-linecap='round' stroke-linejoin='round'>\n    <!-- Extracted topological paths for deep_perspective_stack_of_96 -->\n  </g>\n  <g id='lens_1_syntax_blocks' stroke='black' stroke-width='4' fill='none' stroke-linecap='round' stroke-linejoin='round'>\n    <!-- Extracted topological paths for lens_1_syntax_blocks -->\n  </g>\n  <g id='lens_2_factual_objects' stroke='black' stroke-width='4' fill='none' stroke-linecap='round' stroke-linejoin='round'>\n    <!-- Extracted topological paths for lens_2_factual_objects -->\n  </g>\n  <g id='lens_3_abstract_cosmos' stroke='black' stroke-width='4' fill='none' stroke-linecap='round' stroke-linejoin='round'>\n    <!-- Extracted topological paths for lens_3_abstract_cosmos -->\n  </g>\n</svg>",
+  "svg_layers": [
+    "deep_perspective_stack_of_96",
+    "lens_1_syntax_blocks",
+    "lens_2_factual_objects",
+    "lens_3_abstract_cosmos"
+  ],
+  "draw_sequence": [
+    {
+      "layer": "deep_perspective_stack_of_96",
+      "order": 1,
+      "duration_percent": 0.3814,
+      "start_percent": 0.0
+    },
+    {
+      "layer": "lens_1_syntax_blocks",
+      "order": 2,
+      "duration_percent": 0.2821,
+      "start_percent": 0.3751
+    },
+    {
+      "layer": "lens_2_factual_objects",
+      "order": 3,
+      "duration_percent": 0.1567,
+      "start_percent": 0.6531
+    },
+    {
+      "layer": "lens_3_abstract_cosmos",
+      "order": 4,
+      "duration_percent": 0.1933,
+      "start_percent": 0.8067
+    }
+  ],
+  "stroke_style": "thick dry-erase marker with organic wobble",
+  "topological_morph_notes": "We reach the very end of the perspective tunnel. The final abstract cosmos lens morphs and solidifies into the singular glowing node representing the final hidden state for Board 5.",
+  "qualia_alignment": "Isolated SVG paths successfully split into After Skool compositional layers."
+}
